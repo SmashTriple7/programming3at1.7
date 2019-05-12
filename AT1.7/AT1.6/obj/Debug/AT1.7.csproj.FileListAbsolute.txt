@@ -1,0 +1,11 @@
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.7\AT1.7\AT1.6\obj\Debug\AT1.7.csprojAssemblyReference.cache
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.7\AT1.7\AT1.6\obj\Debug\AT1._6.Properties.Resources.resources
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.7\AT1.7\AT1.6\obj\Debug\AT1.7.csproj.GenerateResource.cache
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.7\AT1.7\AT1.6\obj\Debug\AT1.7.csproj.CoreCompileInputs.cache
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.7\AT1.7\AT1.6\obj\Debug\AT1.6.exe
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.7\AT1.7\AT1.6\obj\Debug\AT1.6.pdb
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.7\AT1.7\AT1.6\bin\Debug\AT1.6.exe.config
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.7\AT1.7\AT1.6\bin\Debug\AT1.6.exe
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.7\AT1.7\AT1.6\bin\Debug\AT1.6.pdb
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.7\AT1.7\AT1.6\obj\Debug\Calc.Calculator.resources
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.7\AT1.7\AT1.6\obj\Debug\AT1.7.csproj.CopyComplete

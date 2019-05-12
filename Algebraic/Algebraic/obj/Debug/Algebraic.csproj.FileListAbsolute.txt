@@ -1,0 +1,12 @@
+C:\Users\jonah\Desktop\Diploma Backup\Programming 3\AT 1 - Portfolio\AT 1.6\Algebraic\Algebraic\bin\Debug\Algebraic.dll
+C:\Users\jonah\Desktop\Diploma Backup\Programming 3\AT 1 - Portfolio\AT 1.6\Algebraic\Algebraic\bin\Debug\Algebraic.pdb
+C:\Users\jonah\Desktop\Diploma Backup\Programming 3\AT 1 - Portfolio\AT 1.6\Algebraic\Algebraic\obj\Debug\Algebraic.csprojAssemblyReference.cache
+C:\Users\jonah\Desktop\Diploma Backup\Programming 3\AT 1 - Portfolio\AT 1.6\Algebraic\Algebraic\obj\Debug\Algebraic.csproj.CoreCompileInputs.cache
+C:\Users\jonah\Desktop\Diploma Backup\Programming 3\AT 1 - Portfolio\AT 1.6\Algebraic\Algebraic\obj\Debug\Algebraic.dll
+C:\Users\jonah\Desktop\Diploma Backup\Programming 3\AT 1 - Portfolio\AT 1.6\Algebraic\Algebraic\obj\Debug\Algebraic.pdb
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.6\Algebraic\Algebraic\bin\Debug\Algebraic.dll
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.6\Algebraic\Algebraic\bin\Debug\Algebraic.pdb
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.6\Algebraic\Algebraic\obj\Debug\Algebraic.csprojAssemblyReference.cache
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.6\Algebraic\Algebraic\obj\Debug\Algebraic.csproj.CoreCompileInputs.cache
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.6\Algebraic\Algebraic\obj\Debug\Algebraic.dll
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.6\Algebraic\Algebraic\obj\Debug\Algebraic.pdb

@@ -1,0 +1,12 @@
+C:\Users\jonah\Desktop\Diploma Backup\Programming 3\AT 1 - Portfolio\AT 1.6\Trigonometric\Trigonometric\bin\Debug\Trigonometric.dll
+C:\Users\jonah\Desktop\Diploma Backup\Programming 3\AT 1 - Portfolio\AT 1.6\Trigonometric\Trigonometric\bin\Debug\Trigonometric.pdb
+C:\Users\jonah\Desktop\Diploma Backup\Programming 3\AT 1 - Portfolio\AT 1.6\Trigonometric\Trigonometric\obj\Debug\Trigonometric.csprojAssemblyReference.cache
+C:\Users\jonah\Desktop\Diploma Backup\Programming 3\AT 1 - Portfolio\AT 1.6\Trigonometric\Trigonometric\obj\Debug\Trigonometric.csproj.CoreCompileInputs.cache
+C:\Users\jonah\Desktop\Diploma Backup\Programming 3\AT 1 - Portfolio\AT 1.6\Trigonometric\Trigonometric\obj\Debug\Trigonometric.dll
+C:\Users\jonah\Desktop\Diploma Backup\Programming 3\AT 1 - Portfolio\AT 1.6\Trigonometric\Trigonometric\obj\Debug\Trigonometric.pdb
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.6\Trigonometric\Trigonometric\bin\Debug\Trigonometric.dll
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.6\Trigonometric\Trigonometric\bin\Debug\Trigonometric.pdb
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.6\Trigonometric\Trigonometric\obj\Debug\Trigonometric.csprojAssemblyReference.cache
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.6\Trigonometric\Trigonometric\obj\Debug\Trigonometric.csproj.CoreCompileInputs.cache
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.6\Trigonometric\Trigonometric\obj\Debug\Trigonometric.dll
+C:\Users\jonah\Desktop\Diploma Work\Programming 3\AT 1 - Portfolio\AT 1.6\Trigonometric\Trigonometric\obj\Debug\Trigonometric.pdb
